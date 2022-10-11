@@ -2,6 +2,9 @@
 github.com/ttheholyone
 TTheHolyOne#1642
 Temp Convert
+holymods.dev
+(celcius * 2) + 30 = farienheit
+(farenheit - 30) / 2 = celcius
 '''
 
 
